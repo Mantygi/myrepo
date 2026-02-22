@@ -1,6 +1,6 @@
-name="manty"
-n1=22
-n2=33
+name=input("enter your name")
+n1=int(input("enter a number = "))
+n2=int(input("enter a number = "))
 lenth = 39
 width = 39
 print(f'area of rect {lenth * width}')
